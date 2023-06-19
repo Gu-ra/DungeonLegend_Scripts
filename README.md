@@ -42,6 +42,13 @@ BrueBlockはスイッチをオンにしたときに出現し、RedBlockはスイ
 ###Fire
 ![Fire](https://github.com/Gu-ra/Old_DungeonLegend/assets/60833795/975f8799-65a3-40f2-a2c6-568b70265b38)
 
+<img width="100" alt="BlueBlock" src="https://github.com/Gu-ra/Old_DungeonLegend/assets/60833795/baa0eb05-5fd4-40e8-8a49-7fe72d78a4f7">
 
+<img width="100" alt="SwitchOn" src="https://github.com/Gu-ra/Old_DungeonLegend/assets/60833795/cbc13242-00b4-4859-8526-1a9da8d77d25">
+
+
+<img width="183" alt="MovingFloor" src="https://github.com/Gu-ra/Old_DungeonLegend/assets/60833795/1ada0d8c-d489-4fb3-bafa-e623b130bf1f">
+
+<img width="245" alt="Spike" src="https://github.com/Gu-ra/Old_DungeonLegend/assets/60833795/7ffc0a60-6bca-43f0-b1d8-71337487d31f">
 
 

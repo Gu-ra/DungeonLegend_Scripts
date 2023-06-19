@@ -1,7 +1,7 @@
 using System;
 using UnityEngine;
 
-public class MovingFloor2 : SwitchableObject
+public class MovingFloor_Switchable : SwitchableObject
 {
 	private void Start()
 	{
@@ -14,12 +14,15 @@ public class MovingFloor2 : SwitchableObject
 
 	private void FixedUpdate()
 	{
+ 		//スイッチオンにすると動き始める。
 		if (this.Switchflg)
 		{
 			this.MoveFloor();
 		}
 	}
 
+	//movePointの要素を通りながら往復するように動く。
+ 	//movePointを全て通ると、returnPoint=Trueとなり、スタートまで戻っていく。
 	protected void MoveFloor()
 	{
 		if (this.movePoint != null && this.movePoint.Length > 1 && this.rb != null)

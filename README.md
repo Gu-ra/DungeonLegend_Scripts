@@ -8,13 +8,13 @@
 ![Player](https://github.com/Gu-ra/Old_DungeonLegend/assets/60833795/4d329fbc-617f-4abc-9d2c-f85e70166d2a)
 
 ### Player-HPCheck.cs
-プレイヤーのHPを管理します。
+プレイヤーのHPを確認します。
 
 ### Player-HPText.cs
-プレイヤーの現在HPを表示します。
+プレイヤーの現在HPを画面に表示します。
 
 ### Player-Player.cs
-プレイヤーの状態を持ちます。
+ダメージを受けると、プレイヤーのHPを減らすAddDamageメソッドを呼びます。
 
 ### Player-Respawn.cs
 プレイヤーのHPが0になったとき、チェックポイントで復活します。

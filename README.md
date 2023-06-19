@@ -27,27 +27,47 @@ BrueBlockはスイッチをオンにしたときに出現し、RedBlockはスイ
 
 爆弾で破壊出来るブロック
 
-###Switch
-![Switch](https://github.com/Gu-ra/Old_DungeonLegend/assets/60833795/8e0e24b1-a8c1-4d02-8f54-e3a62d200bd5)
+### RedBlock
+<img width="100" alt="RedBlock" src="https://github.com/Gu-ra/Old_DungeonLegend/assets/60833795/8df2136e-1991-4a77-8067-3959ad1345e2">
 
-###Bomb
-![Bomb](https://github.com/Gu-ra/Old_DungeonLegend/assets/60833795/86b04730-bd8e-45b4-92db-788de7202643)
 
-###Explosion
-![Explosion](https://github.com/Gu-ra/Old_DungeonLegend/assets/60833795/73b0f517-2ffc-4b4e-9586-2cc820329558)
+RedBlockはスイッチをオンにしたときに出現し、オフにすると消えます。
 
-###Knife
-![Knife](https://github.com/Gu-ra/Old_DungeonLegend/assets/60833795/8c398752-89a6-4935-85e1-3402ca9faa00)
-
-###Fire
-![Fire](https://github.com/Gu-ra/Old_DungeonLegend/assets/60833795/975f8799-65a3-40f2-a2c6-568b70265b38)
-
+### BlueBlock
 <img width="100" alt="BlueBlock" src="https://github.com/Gu-ra/Old_DungeonLegend/assets/60833795/baa0eb05-5fd4-40e8-8a49-7fe72d78a4f7">
 
+
+BlueBlockはスイッチをオフにしたときに出現し、オンにすると消えます。
+
+### Switch
+![Switch](https://github.com/Gu-ra/Old_DungeonLegend/assets/60833795/8e0e24b1-a8c1-4d02-8f54-e3a62d200bd5)
 <img width="100" alt="SwitchOn" src="https://github.com/Gu-ra/Old_DungeonLegend/assets/60833795/cbc13242-00b4-4859-8526-1a9da8d77d25">
 
+オンオフ切り替え出来るスイッチ。(左：オフ、右：オフ)
+
+### Bomb
+![Bomb](https://github.com/Gu-ra/Old_DungeonLegend/assets/60833795/86b04730-bd8e-45b4-92db-788de7202643)
+
+プレイヤーがその場に生成する爆弾。爆発により、スイッチを起動したりブロックを壊せます。風で転がせます。
+### Explosion
+![Explosion](https://github.com/Gu-ra/Old_DungeonLegend/assets/60833795/73b0f517-2ffc-4b4e-9586-2cc820329558)
+
+爆弾が爆発するとこのエフェクトが生成され、この範囲内に、爆風による当たり判定が出来ます。
+
+### Knife
+![Knife](https://github.com/Gu-ra/Old_DungeonLegend/assets/60833795/8c398752-89a6-4935-85e1-3402ca9faa00)
+
+プレイヤーが投げるナイフ。ブロックは壊せないですが、遠くのスイッチを起動するのに使えます。
+
+### Fire
+![Fire](https://github.com/Gu-ra/Old_DungeonLegend/assets/60833795/975f8799-65a3-40f2-a2c6-568b70265b38)
+
+当たるとプレイヤーにダメージが入ります。ソースコードはKnifeと同じなので、挙動は全く同じです。(テクスチャを変えただけです。)
+
+### MovingFloor
 
 <img width="183" alt="MovingFloor" src="https://github.com/Gu-ra/Old_DungeonLegend/assets/60833795/1ada0d8c-d489-4fb3-bafa-e623b130bf1f">
+
 
 <img width="245" alt="Spike" src="https://github.com/Gu-ra/Old_DungeonLegend/assets/60833795/7ffc0a60-6bca-43f0-b1d8-71337487d31f">
 

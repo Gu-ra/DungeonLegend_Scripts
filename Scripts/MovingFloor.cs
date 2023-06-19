@@ -18,7 +18,9 @@ public class MovingFloor : MonoBehaviour
 		this.MoveFloor();
 	}
 
-	//一定区間を動く
+	
+	//movePointの要素を通りながら往復するように動く。
+ 	//movePointを全て通ると、returnPoint=Trueとなり、スタートまで戻っていく。
 	protected void MoveFloor()
 	{
 		if (this.movePoint != null && this.movePoint.Length > 1 && this.rb != null)

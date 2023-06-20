@@ -69,7 +69,7 @@ RedBlockはスイッチをオンにしたときに出現し、オフにすると
 ### BlueBlock(GreenBlock)
 <img width="100" alt="BlueBlock" src="https://github.com/Gu-ra/Old_DungeonLegend/assets/60833795/baa0eb05-5fd4-40e8-8a49-7fe72d78a4f7">
 
-BlueBlockはスイッチをオフにしたときに出現し、オンにすると消えます(GreenBrockはテクスチャを変えただけで挙動は同じです。)。
+BlueBlockはスイッチをオフにしたときに出現し、オンにすると消えます(GreenBrockはテクスチャを変えただけで挙動は同じです)。
 
 ### Switch
 ![Switch](https://github.com/Gu-ra/Old_DungeonLegend/assets/60833795/8e0e24b1-a8c1-4d02-8f54-e3a62d200bd5)
@@ -103,7 +103,7 @@ BlueBlockはスイッチをオフにしたときに出現し、オンにする�
 ### Fire
 ![Fire](https://github.com/Gu-ra/Old_DungeonLegend/assets/60833795/975f8799-65a3-40f2-a2c6-568b70265b38)
 
-当たるとプレイヤーにダメージが入ります。ソースコードはKnifeと同じなので、挙動は全く同じです。(テクスチャを変えただけです。)
+当たるとプレイヤーにダメージが入ります。ソースコードはKnifeと同じなので、挙動は全く同じです(テクスチャを変えただけです)。
 
 ### MovingFloor
 

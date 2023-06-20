@@ -3,7 +3,8 @@ using UnityEngine;
 
 public class PixelObjectBase : MonoBehaviour
 {
-    //ドット絵オブジェクト
+    	//ドット絵オブジェクト
+     	//ドットのちらつきを抑える。
 	private void LateUpdate()
 	{
 		this.cashPosition = base.transform.localPosition;

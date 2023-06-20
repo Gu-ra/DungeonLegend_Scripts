@@ -20,7 +20,11 @@
 プレイヤーのHPが0になったとき、チェックポイントで復活します。
 
 ### RespawnCounter.cs
-### Respawn
+チェックポイントには番号を振っているのですが、その番号を持ったクラスです。
+
+### UpdateRespawnPoint.cs
+チェックポイントを通ると、死んだときに復活する場所を更新します。
+
 ### Block
 ![Block](https://github.com/Gu-ra/Old_DungeonLegend/assets/60833795/c31e38d9-3edc-4e00-aff8-2fa90e1acb02)
 
@@ -59,6 +63,9 @@ BlueBlockはスイッチをオフにしたときに出現し、オンにする�
 
 プレイヤーが投げるナイフ。ブロックは壊せないですが、遠くのスイッチを起動するのに使えます。
 
+### Generator
+オブジェクト（Fireだけですが)を一定時間ごとに生成して飛ばします。
+
 ### Fire
 ![Fire](https://github.com/Gu-ra/Old_DungeonLegend/assets/60833795/975f8799-65a3-40f2-a2c6-568b70265b38)
 
@@ -83,4 +90,12 @@ BlueBlockはスイッチをオフにしたときに出現し、オンにする�
 ### Spring
 プレイヤーが飛び乗ると高くジャンプできるバネです。
 
+## インターフェース
+### IDamagable
+ダメージを受けると動作するメソッド。プレイヤーのダメージ管理だけでなく、仕掛けを動かすのにも使っています。
 
+### ISwitching
+Switch,Buttonのようなオン・オフで切り替わるスイッチに継承させます。
+
+### IWind
+Player,Bombのような風の影響を受けるオブジェクトに継承させます。

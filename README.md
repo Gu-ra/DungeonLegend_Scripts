@@ -88,6 +88,8 @@ BlueBlockはスイッチをオフにしたときに出現し、オンにする�
 風で爆弾を転がせます。また、下から吹き上げる風に乗って、プレイヤーは浮くことが出来ます。
 
 ### Spring
+<img width="101" alt="Spring" src="https://github.com/Gu-ra/DungeonLegend_Scripts/assets/60833795/807d7f40-1a85-48d4-9e1c-d10ae7c3ceac">
+
 プレイヤーが飛び乗ると高くジャンプできるバネです。
 
 ## インターフェース

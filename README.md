@@ -29,7 +29,8 @@
 
 
 ## プレイ動画
-![プレイ動画のリンク先](https://drive.google.com/file/d/1Ld5Ozr1p_bZZT41UiY3lBomxTBiSCz3V/view?usp=sharing)
+[プレイ動画のリンク先](https://drive.google.com/file/d/1Ld5Ozr1p_bZZT41UiY3lBomxTBiSCz3V/view?usp=sharing)
+
 ## 各ファイルの説明
 
 ### Player

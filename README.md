@@ -1,7 +1,35 @@
-# Old_DungeonLegend
+# DungeonLegend
 
 自作ゲーム「ダンジョンレジェンド」のソースコードです。
+仕掛けを解きながら進む2Dアクションゲームを目指しました。
 
+## プレイ画面
+ナイフを投げて遠くのスイッチを起動させたり
+
+
+![image](https://github.com/Gu-ra/DungeonLegend_Scripts/assets/60833795/9f03193b-3075-4db9-9dc8-2e6eed290965)
+
+
+爆弾でブロックを壊したり
+
+
+![image](https://github.com/Gu-ra/DungeonLegend_Scripts/assets/60833795/51c2f23d-49a3-4e31-a9ab-94df06a73ba8)
+
+
+爆弾でボタンを押したままに
+
+
+![image](https://github.com/Gu-ra/DungeonLegend_Scripts/assets/60833795/f8d4452b-5cb9-4183-a0e6-c42bba5be54a)
+
+
+
+風で爆弾を転がす
+
+![image](https://github.com/Gu-ra/DungeonLegend_Scripts/assets/60833795/ba8cbb40-2f99-4f04-b876-1a5186cfad59)
+
+
+## プレイ動画
+![プレイ動画のリンク先](https://drive.google.com/file/d/1Ld5Ozr1p_bZZT41UiY3lBomxTBiSCz3V/view?usp=sharing)
 ## 各ファイルの説明
 
 ### Player

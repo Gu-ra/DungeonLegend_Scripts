@@ -37,11 +37,10 @@
 
 RedBlockはスイッチをオンにしたときに出現し、オフにすると消えます。
 
-### BlueBlock
+### BlueBlock(GreenBlock)
 <img width="100" alt="BlueBlock" src="https://github.com/Gu-ra/Old_DungeonLegend/assets/60833795/baa0eb05-5fd4-40e8-8a49-7fe72d78a4f7">
 
-
-BlueBlockはスイッチをオフにしたときに出現し、オンにすると消えます。
+BlueBlockはスイッチをオフにしたときに出現し、オンにすると消えます(GreenBrockはテクスチャを変えただけで挙動は同じです。)。
 
 ### Switch
 ![Switch](https://github.com/Gu-ra/Old_DungeonLegend/assets/60833795/8e0e24b1-a8c1-4d02-8f54-e3a62d200bd5)
@@ -49,10 +48,16 @@ BlueBlockはスイッチをオフにしたときに出現し、オンにする�
 
 オンオフ切り替え出来るスイッチ。(左：オフ、右：オフ)
 
+### Button
+<img width="100" alt="Button" src="https://github.com/Gu-ra/DungeonLegend_Scripts/assets/60833795/30b22381-840f-489a-99e4-6c206e11fb9f">
+
+上にPlayerやBombが乗っている間だけオン、乗っていない間はオフになるスイッチです。
+
 ### Bomb
 ![Bomb](https://github.com/Gu-ra/Old_DungeonLegend/assets/60833795/86b04730-bd8e-45b4-92db-788de7202643)
 
-プレイヤーがその場に生成する爆弾。爆発により、スイッチを起動したりブロックを壊せます。風で転がせます。
+プレイヤーがその場に生成できる爆弾。爆発により、スイッチを起動したりブロックを壊せます。また、時間経過か、ナイフによる攻撃で起爆でき、風で転がせます。
+
 ### Explosion
 ![Explosion](https://github.com/Gu-ra/Old_DungeonLegend/assets/60833795/73b0f517-2ffc-4b4e-9586-2cc820329558)
 
@@ -61,10 +66,10 @@ BlueBlockはスイッチをオフにしたときに出現し、オンにする�
 ### Knife
 ![Knife](https://github.com/Gu-ra/Old_DungeonLegend/assets/60833795/8c398752-89a6-4935-85e1-3402ca9faa00)
 
-プレイヤーが投げるナイフ。ブロックは壊せないですが、遠くのスイッチを起動するのに使えます。
+プレイヤーが投げるナイフ。ブロックは壊せないですが、遠くのスイッチを起動したり、爆弾を起爆するのに使えます。
 
 ### Generator
-オブジェクト（Fireだけですが)を一定時間ごとに生成して飛ばします。
+オブジェクト（このゲームではFireだけですが)を一定時間ごとに生成して飛ばします。
 
 ### Fire
 ![Fire](https://github.com/Gu-ra/Old_DungeonLegend/assets/60833795/975f8799-65a3-40f2-a2c6-568b70265b38)

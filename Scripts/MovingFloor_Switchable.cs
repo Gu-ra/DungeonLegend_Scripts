@@ -21,7 +21,7 @@ public class MovingFloor_Switchable : SwitchableObject
 		}
 	}
 
-	//movePointの要素を通りながら往復するように動く。
+	//movePointの要素を通りながら、往復するように動く。
  	//movePointを全て通ると、returnPoint=Trueとなり、スタートまで戻っていく。
 	protected void MoveFloor()
 	{

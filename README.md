@@ -19,8 +19,7 @@
 ### Player-Respawn.cs
 プレイヤーのHPが0になったとき、チェックポイントで復活します。
 
-### Block,BlueBlock,RedBrock
-BrueBlockはスイッチをオンにしたときに出現し、RedBlockはスイッチをオフにしたときに出現します。
+
 ### Block
 ![Block](https://github.com/Gu-ra/Old_DungeonLegend/assets/60833795/c31e38d9-3edc-4e00-aff8-2fa90e1acb02)
 
@@ -68,7 +67,11 @@ BlueBlockはスイッチをオフにしたときに出現し、オンにする�
 
 <img width="183" alt="MovingFloor" src="https://github.com/Gu-ra/Old_DungeonLegend/assets/60833795/1ada0d8c-d489-4fb3-bafa-e623b130bf1f">
 
+一定の区間を動く床です。
 
+### Spike
 <img width="245" alt="Spike" src="https://github.com/Gu-ra/Old_DungeonLegend/assets/60833795/7ffc0a60-6bca-43f0-b1d8-71337487d31f">
 
+当たるとプレイヤーが即死するトラップです。
 
+### Wind

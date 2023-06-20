@@ -75,3 +75,6 @@ BlueBlockはスイッチをオフにしたときに出現し、オンにする�
 当たるとプレイヤーが即死するトラップです。
 
 ### Wind
+<img width="206" alt="Wind" src="https://github.com/Gu-ra/DungeonLegend_Scripts/assets/60833795/5d4ec1db-f6ba-4865-8440-b75ab074c23b">
+
+風で爆弾を転がせます。また、下から吹き上げる風に乗って、プレイヤーは浮くことが出来ます。

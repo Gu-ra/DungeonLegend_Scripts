@@ -9,8 +9,8 @@ public class PlayerController : MonoBehaviour
 		this.isGrounded = Physics2D.Linecast(base.transform.position, base.transform.position - base.transform.up * 1f, this.groundLayer);
 	}
 
-    //以下キー入力を受け取るための変数
-    //歩いているか
+    	//以下キー入力を受け取るための変数
+    	//歩いているか
 	protected float x_move;
 
 	//ジャンプしたか

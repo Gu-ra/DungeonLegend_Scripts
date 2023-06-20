@@ -19,7 +19,8 @@
 ### Player-Respawn.cs
 プレイヤーのHPが0になったとき、チェックポイントで復活します。
 
-
+### RespawnCounter.cs
+### Respawn
 ### Block
 ![Block](https://github.com/Gu-ra/Old_DungeonLegend/assets/60833795/c31e38d9-3edc-4e00-aff8-2fa90e1acb02)
 
@@ -78,3 +79,8 @@ BlueBlockはスイッチをオフにしたときに出現し、オンにする�
 <img width="206" alt="Wind" src="https://github.com/Gu-ra/DungeonLegend_Scripts/assets/60833795/5d4ec1db-f6ba-4865-8440-b75ab074c23b">
 
 風で爆弾を転がせます。また、下から吹き上げる風に乗って、プレイヤーは浮くことが出来ます。
+
+### Spring
+プレイヤーが飛び乗ると高くジャンプできるバネです。
+
+
